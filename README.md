@@ -1,4 +1,11 @@
-# CustomSnackbar
+# Android Custom Snackbar
+
+![Android](https://img.shields.io/badge/Android-API%2029%2B-brightgreen)
+![Gradle](https://img.shields.io/badge/Gradle-8.13-blue)
+![Gradle](https://img.shields.io/badge/AppCompat-1.7.1-blue)
+![Gradle](https://img.shields.io/badge/ConstraintLayout-2.2.1-blue)
+![Gradle](https://img.shields.io/badge/MaterialComponents-1.13.0-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A lightweight Android utility library for creating highly customizable Material Design Snackbars with ease.
 
